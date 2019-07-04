@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movi-react/static/css/main.75a5e2d5.chunk.css",
+    "main.js": "/movi-react/static/js/main.e85d9b01.chunk.js",
+    "main.js.map": "/movi-react/static/js/main.e85d9b01.chunk.js.map",
+    "runtime~main.js": "/movi-react/static/js/runtime~main.23bc4c0e.js",
+    "runtime~main.js.map": "/movi-react/static/js/runtime~main.23bc4c0e.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/movi-react/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/movi-react/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/movi-react/index.html",
+    "precache-manifest.032cc7404ad930872f374d6db7f44315.js": "/movi-react/precache-manifest.032cc7404ad930872f374d6db7f44315.js",
+    "service-worker.js": "/movi-react/service-worker.js",
+    "static/css/main.75a5e2d5.chunk.css.map": "/movi-react/static/css/main.75a5e2d5.chunk.css.map"
+  }
+}
